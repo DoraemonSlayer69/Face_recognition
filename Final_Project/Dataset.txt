@@ -1,0 +1,7 @@
+DATASET USED FOR THE PROJECT
+
+1. WIDERFACE DATASET:
+	https://www.tensorflow.org/datasets/catalog/wider_face
+
+2. IMDB-WIKI
+	https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/

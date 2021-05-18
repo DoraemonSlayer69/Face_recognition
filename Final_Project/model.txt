@@ -1,0 +1,5 @@
+SAVED MODEL
+
+FACE DETECTOR MODEL:
+	https://drive.google.com/file/d/1suq6AO6h-_2tONhCGCIwHrtHtGalFyfC/view?usp=sharing
+	
